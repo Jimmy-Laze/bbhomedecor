@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ceee4fd.css",
-    "main.js": "/static/js/main.63a46885.js",
-    "static/media/spiralbg.png": "/static/media/spiralbg.f17ff576a10a7e844d75.png",
-    "static/media/spiral-3.png": "/static/media/spiral-3.6c31a66ea4fde0c5a081.png",
-    "static/media/contact.jpg": "/static/media/contact.a3e61d041ffb67fe21f9.jpg",
-    "static/media/bbtv.jpg": "/static/media/bbtv.4d6ebc4af769a6c5a0a1.jpg",
-    "static/media/sectorbg.png": "/static/media/sectorbg.fe38488f7b7761b94946.png",
-    "static/media/loginBg.jpg": "/static/media/loginBg.6963e858a7cdb6b44025.jpg",
-    "static/media/spote2.png": "/static/media/spote2.5d947b4c9afb5aa48c05.png",
-    "static/media/squareBG1.png": "/static/media/squareBG1.b0b820abb98ad1bb527f.png",
-    "static/media/bbBackground.jpg": "/static/media/bbBackground.fba3e9c566bf6aa4f180.jpg",
-    "static/media/bgPhoto.png": "/static/media/bgPhoto.e27c2878f039dfe1f7cd.png",
-    "static/media/bnb_logo_3.png": "/static/media/bnb_logo_3.a9e203d25c365db1d43a.png",
-    "static/media/bnb_logo_2.png": "/static/media/bnb_logo_2.0339e3ece12bde8b326c.png",
-    "static/media/bgPhoto1.png": "/static/media/bgPhoto1.67af309d540a00c3d028.png",
-    "index.html": "/index.html"
+    "main.css": "/bbhomedecor/static/css/main.2ceee4fd.css",
+    "main.js": "/bbhomedecor/static/js/main.63a46885.js",
+    "static/media/spiralbg.png": "/bbhomedecor/static/media/spiralbg.f17ff576a10a7e844d75.png",
+    "static/media/spiral-3.png": "/bbhomedecor/static/media/spiral-3.6c31a66ea4fde0c5a081.png",
+    "static/media/contact.jpg": "/bbhomedecor/static/media/contact.a3e61d041ffb67fe21f9.jpg",
+    "static/media/bbtv.jpg": "/bbhomedecor/static/media/bbtv.4d6ebc4af769a6c5a0a1.jpg",
+    "static/media/sectorbg.png": "/bbhomedecor/static/media/sectorbg.fe38488f7b7761b94946.png",
+    "static/media/loginBg.jpg": "/bbhomedecor/static/media/loginBg.6963e858a7cdb6b44025.jpg",
+    "static/media/spote2.png": "/bbhomedecor/static/media/spote2.5d947b4c9afb5aa48c05.png",
+    "static/media/squareBG1.png": "/bbhomedecor/static/media/squareBG1.b0b820abb98ad1bb527f.png",
+    "static/media/bbBackground.jpg": "/bbhomedecor/static/media/bbBackground.fba3e9c566bf6aa4f180.jpg",
+    "static/media/bgPhoto.png": "/bbhomedecor/static/media/bgPhoto.e27c2878f039dfe1f7cd.png",
+    "static/media/bnb_logo_3.png": "/bbhomedecor/static/media/bnb_logo_3.a9e203d25c365db1d43a.png",
+    "static/media/bnb_logo_2.png": "/bbhomedecor/static/media/bnb_logo_2.0339e3ece12bde8b326c.png",
+    "static/media/bgPhoto1.png": "/bbhomedecor/static/media/bgPhoto1.67af309d540a00c3d028.png",
+    "index.html": "/bbhomedecor/index.html"
   },
   "entrypoints": [
-    "static/css/main.2ceee4fd.css",
-    "static/js/main.63a46885.js"
+    "/bbhomedecor/static/css/main.2ceee4fd.css",
+    "/bbhomedecorstatic/js/main.63a46885.js"
   ]
 }
